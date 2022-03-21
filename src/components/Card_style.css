@@ -1,0 +1,59 @@
+.card_heading_text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  position: relative;
+  top: 10px;
+}
+.card_main_icon {
+  width: 55px;
+  height: 54px;
+}
+@media only screen and (max-width: 1400px) {
+  .homePage-card1-values {
+    font-size: 14px;
+  }
+  .homePage-card1-titles {
+    font-size: 12px;
+  }
+  .homePage-card1-values-btn-text {
+    font-size: 10px;
+  }
+  .homePage-card1-values-btn {
+    padding: 5px 15px;
+  }
+  .homePage-card1-values-btn-active {
+    padding: 5px 15px;
+  }
+  .card_heading_text {
+    font-size: 18px;
+  }
+  .card_main_icon {
+    width: 50px;
+    height: 49px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .homePage-card1-values {
+    font-size: 11px;
+  }
+  .homePage-card1-titles {
+    font-size: 10px;
+  }
+  .homePage-card1-values-btn-text {
+    font-size: 8px;
+  }
+  .homePage-card1-values-btn {
+    padding: 3px 10px;
+  }
+  .homePage-card1-values-btn-active {
+    padding: 3px 10px;
+  }
+  .card_heading_text {
+    font-size: 14px;
+  }
+  .card_main_icon {
+    width: 40px;
+    height: 39px;
+  }
+}
